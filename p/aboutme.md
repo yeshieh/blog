@@ -1,8 +1,8 @@
 # About Me
 
-## Fritz Lin
+## Yeshieh
 
-<img alt="avatar" src="avatar.jpg" width="240">
+<img alt="avatar" src="ye.png" width="240">
 
 > Life is short, I use JS.
 
@@ -17,4 +17,4 @@ CS College in WYU, China
 
 ## On Github
 
-[@fritx](https://github.com/fritx)
+[@yeshieh](https://github.com/yeshieh)
