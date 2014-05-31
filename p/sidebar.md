@@ -1,6 +1,6 @@
-# [Fritx's Blog](.)
+# [Yeshieh's Blog](.)
 
-> Life is short, I use JS.
+> A Man,A Son,A Friend.
 
 - [Projects](projects/index.md)
 - [About Me](aboutme.md)
