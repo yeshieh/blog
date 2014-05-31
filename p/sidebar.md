@@ -4,3 +4,4 @@
 
 - [Projects](projects/index.md)
 - [About Me](aboutme.md)
+- [lifeStyle](lifeStyle.md)
