@@ -6,7 +6,7 @@
 
 
 
-bad luck[badluck.md]
+[bad luck](badluck.md)
 
 - Node.js/JavaScript Programming
 - Website Design (CSS/HTML)
