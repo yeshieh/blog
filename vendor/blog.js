@@ -135,7 +135,7 @@
   function comments() {
 
     //// Optional comment system
-    //disqus(shortName, mainTitle, mainPage, onlineUrl);
+    disqus(shortName, mainTitle, mainPage, onlineUrl);
   }
 
   function start() {
@@ -162,8 +162,8 @@
     });
 
     //// For comment systems
-    //entryUrl = 'http://fritx.github.io/silent';
-    //shortName = 'silent-blog';
+    entryUrl = 'http://fritx.github.io/silent';
+    shortName = 'silent-blog';
 
     pageBase = 'p/';
     pageExt = 'md';
