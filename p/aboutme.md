@@ -4,7 +4,7 @@
 
 <img alt="avatar" src="ye.png" width="240">
 
-> Life is short, I use JS.
+> A Man,A Son,A Friend.
 
 ## Major
 
