@@ -7,5 +7,6 @@
 #[bad luck](badluck.md)
 >凸凸~倒霉倒霉
 
-
+#[Coolpad](Coolpad.md)
+>Coolpad return!!
 
