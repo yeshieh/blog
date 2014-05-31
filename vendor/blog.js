@@ -167,7 +167,7 @@
 
     pageBase = 'p/';
     pageExt = 'md';
-    defaultPage = 'lifeStyle/index';
+    defaultPage = 'lifeStyle.md';
   }
 
 })();
