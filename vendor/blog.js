@@ -167,7 +167,7 @@
 
     pageBase = 'p/';
     pageExt = 'md';
-    defaultPage = 'projects/index';
+    defaultPage = 'lifeStyle/index';
   }
 
 })();
